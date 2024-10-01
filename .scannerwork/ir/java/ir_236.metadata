@@ -1,0 +1,6 @@
+businessLogic.BLFacadeImplementation#getUserList()Ljava/util/List;
+e7502afee02919fdcf1e654767df739a
+==
+getUserList dataAccess.DataAccess#getUserList()Ljava/util/List;
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open()V

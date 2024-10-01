@@ -1,0 +1,6 @@
+businessLogic.BLFacadeImplementation#getDepartCities()Ljava/util/List;
+26df4ae735463530d7522730ab90e99d
+==
+getDepartCities dataAccess.DataAccess#getDepartCities()Ljava/util/List;
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open()V

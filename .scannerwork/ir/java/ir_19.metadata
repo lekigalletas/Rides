@@ -1,0 +1,5 @@
+dataAccess.DataAccess#getKotxeByMatrikula(Ljava/lang/String;)Ldomain/Car;
+81dc26b1d07136f0e55ff99c89ca0a39
+==
+isEmpty java.util.List#isEmpty()Z
+get java.util.List#get(I)Ljava/lang/Object;

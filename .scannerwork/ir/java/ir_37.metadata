@@ -1,0 +1,4 @@
+gui.BookGUI#jButton2_actionPerformed(Ljava/awt/event/ActionEvent;)V
+1faa30d43bf240ef3564fbfc4ed0e780
+==
+setVisible java.awt.Window#setVisible(Z)V

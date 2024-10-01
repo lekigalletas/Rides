@@ -1,0 +1,4 @@
+gui.MoneyGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+fe7b8d46ea3c76f451b697062f920b1b
+==
+setVisible java.awt.Window#setVisible(Z)V

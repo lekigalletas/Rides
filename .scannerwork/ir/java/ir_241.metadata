@@ -1,0 +1,6 @@
+businessLogic.BLFacadeImplementation#updateAlertaAurkituak(Ljava/lang/String;)Z
+7f499ef71edc7be2ceea69acaf7c236d
+==
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open()V
+updateAlertaAurkituak dataAccess.DataAccess#updateAlertaAurkituak(Ljava/lang/String;)Z

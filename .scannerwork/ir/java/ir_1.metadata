@@ -1,0 +1,13 @@
+dataAccess.DataAccess#<init>()V
+5f3fc8c34a2d4f57f3fbb9c0d857b587
+java.io.File#<init>(Ljava/lang/String;)V
+java.io.File#instance-init#
+==
+getDbFilename configuration.ConfigXML#getDbFilename()Ljava/lang/String;
+initializeDB dataAccess.DataAccess#initializeDB()V
+println java.io.PrintStream#println(Ljava/lang/String;)V
+close dataAccess.DataAccess#close()V
+delete java.io.File#delete()Z
+open dataAccess.DataAccess#open()V
+isDatabaseLocal configuration.ConfigXML#isDatabaseLocal()Z
+isDatabaseInitialized configuration.ConfigXML#isDatabaseInitialized()Z

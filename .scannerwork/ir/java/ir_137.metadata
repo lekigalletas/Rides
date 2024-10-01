@@ -1,0 +1,4 @@
+gui.RegisterGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+8bd1c25edeedca1644479a28e0224f8e
+==
+setVisible java.awt.Window#setVisible(Z)V

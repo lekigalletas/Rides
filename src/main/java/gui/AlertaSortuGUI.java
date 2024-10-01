@@ -175,7 +175,8 @@ public class AlertaSortuGUI extends JFrame {
 					@SuppressWarnings("unused")
 					Component o = (Component) jCalendar.getDayChooser().getDayPanel()
 							.getComponent(jCalendar.getCalendar().get(Calendar.DAY_OF_MONTH) + offset);
-				}
+				} 
+				else{} //Salimos del If//
 			}
 		});
 

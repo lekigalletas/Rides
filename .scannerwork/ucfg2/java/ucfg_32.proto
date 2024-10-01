@@ -1,0 +1,76 @@
+
+ƒdataAccess.DataAccess#erreklamazioaBidali(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;Ldomain/Booking;Ljava/lang/String;Z)ZO
+CD:/eclipse-workspace/Rides/src/main/java/dataAccess/DataAccess.javaá á(#"9*%
+5
+é
+ é("
+
+é é(
+""*ƒ
+8
+æ æ(Sm
+k
+
+æ æ(S!
+erreklamazioadomain.Complaint"__id*4
+
+__unknown_file (
+
+%0domain.Complaint*
+5*Ë
+9
+æ+ æ(.86
+
+æ! æ(*
+%0domain.Complaint"domain.Complaintú
+÷
+
+æ æ(R
+%1"qdomain.Complaint#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;Ldomain/Booking;Ljava/lang/String;Z)V*4
+
+__unknown_file (
+
+%0domain.Complaint*5
+
+__unknown_file (
+
+norjava.lang.String*6
+
+__unknown_file (
+
+norijava.lang.String*4
+
+__unknown_file (
+
+gaurjava.util.Date*7
+
+__unknown_file (
+
+bookingdomain.Booking*8
+
+__unknown_file (
+
+textuajava.lang.String*"
+
+__unknown_file (
+""*
+8:%
+
+á$ á(/
+norjava.lang.String:&
+
+á0 á(<
+norijava.lang.String:$
+
+á= á(G
+gaurjava.util.Date:'
+
+áH á(X
+bookingdomain.Booking:(
+
+áY á(g
+textuajava.lang.String: 
+
+__unknown_file (
+""B
+dataAccess.DataAccessHX

@@ -1,0 +1,6 @@
+testOperations.TestBusinessLogic#createDriver(Ljava/lang/String;Ljava/lang/String;)Ldomain/Driver;
+8dc7b37a1d73502930f9fb5268a50155
+==
+createDriver testOperations.TestDataAccess#createDriver(Ljava/lang/String;Ljava/lang/String;)Ldomain/Driver;
+close testOperations.TestDataAccess#close()V
+open testOperations.TestDataAccess#open()V

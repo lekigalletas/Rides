@@ -1,0 +1,6 @@
+businessLogic.BLFacadeImplementation#getAllMovements(Ldomain/User;)Ljava/util/List;
+0be8584594992efe57a85d4fc72ff508
+==
+getAllMovements dataAccess.DataAccess#getAllMovements(Ldomain/User;)Ljava/util/List;
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open()V

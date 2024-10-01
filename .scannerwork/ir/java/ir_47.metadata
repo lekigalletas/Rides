@@ -1,0 +1,5 @@
+domain.Traveler#addBookedRide(Ldomain/Booking;)V
+2898e06de25f3864e47666f330688ed4
+==
+setTraveler domain.Booking#setTraveler(Ldomain/Traveler;)V
+add java.util.List#add(Ljava/lang/Object;)Z

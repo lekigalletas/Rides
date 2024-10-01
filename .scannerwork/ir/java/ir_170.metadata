@@ -1,0 +1,4 @@
+GetActualMoneyMockTest#init()V
+0caf0746cd5264940eb5e3f1c0311315
+dataAccess.DataAccess#instance-init#
+dataAccess.DataAccess#<init>(LEntityManager;)V

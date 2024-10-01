@@ -1,0 +1,4 @@
+gui.LoginGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+a37c979457a3729aa54bf70ec64cc029
+==
+setVisible java.awt.Window#setVisible(Z)V
